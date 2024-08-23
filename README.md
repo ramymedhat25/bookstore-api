@@ -192,5 +192,3 @@ Contributions are welcome! Please create a new branch for each feature or bug fi
 
 This project is licensed under the MIT License.
 ```
-
-You can copy and paste this directly into your `README.md` file. Make sure to replace placeholders like `your-username`, `<username>`, and `<password>` with your actual information.
